@@ -1,0 +1,5 @@
+module-info.class
+com\vdn\mavenproject3\SecondaryController.class
+com\vdn\mavenproject3\App.class
+com\vdn\mavenproject3\PrimaryController.class
+com\vdn\singleton\MyAlert.class
